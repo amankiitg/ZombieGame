@@ -9,21 +9,27 @@ Zombie VR Game for Google Carboard developed on Unity
 
 ## Game Development
 ### Scene View in Unity
-![image](https://github.com/amankiitg/ZombieGame/assets/5688940/68a8d7c1-bb27-4bd6-aba5-7181797aa39b)
+Screenshot 2023-06-10 at 5.44.15 PM![image](https://github.com/amankiitg/ZombieGame/assets/5688940/1008b975-5ef2-47b9-b185-ec2351995e62)
+
 
 ### Game View in Unity
-![image](https://github.com/amankiitg/ZombieGame/assets/5688940/abf63f30-244f-4713-b839-81b6cf207a18)
+Screenshot 2023-06-10 at 5.43.20 PM![image](https://github.com/amankiitg/ZombieGame/assets/5688940/554dede8-bdbe-4dd7-8165-62b8a0b0f747)
+
 
 ## Game Depolyed on iPhone Pro 14
 ### Game Start View in Google Cardboard
-![image](https://github.com/amankiitg/ZombieGame/assets/5688940/65494ce7-fa7c-4fb2-9a03-40c49f4d9366)
+IMG_0999.PNG![image](https://github.com/amankiitg/ZombieGame/assets/5688940/460ae465-da43-459d-a556-ce50cbe7426d)
+
 
 ### Game View after killing 12 zombies
-![image](https://github.com/amankiitg/ZombieGame/assets/5688940/0fff6e0d-ebbe-4856-a79e-e69271b91214)
+![image](https://github.com/amankiitg/ZombieGame/assets/5688940/e6470f1c-277f-47f6-b08d-8014c6e949b4)
+
 
 ### Overcrowded with zombies
-![image](https://github.com/amankiitg/ZombieGame/assets/5688940/24492c9d-7991-4e13-b640-292e1d2f6590)
+![image](https://github.com/amankiitg/ZombieGame/assets/5688940/53bb408f-6c68-4506-93a8-c91c2943f5c7)
+
 
 
 ### App Deployed in iPhone
-![image](https://github.com/amankiitg/ZombieGame/assets/5688940/adcc4665-c202-4390-99f9-0bc1096f9edb)
+IMG_0998.PNG![image](https://github.com/amankiitg/ZombieGame/assets/5688940/3b8942de-888b-4d58-b516-26ba94134632)
+
